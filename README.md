@@ -1,5 +1,7 @@
 # FIAP MBA em Machine Learning e Inteligência Artificial
 
+![alt text](https://github.com/michelpf/fiap-ml-tec-proc-imagens/blob/master/deeplearning.jpg)
+
 ## Tecnologia e Processamento de Imagens
 
 Nas aulas utilizaremos a distribuição Ananconda, com uso intensivo do Jupyter Notebook, que há vem instalado nesta distribuição.
