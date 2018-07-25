@@ -65,7 +65,7 @@ Aplicando filtros e análises de face, utilizando câmera, para experiência com
 
 ### Aula 5 - Rastreamento de objetos
 
-Técnias e métodos para rastreamento de objetos em imagens e vídeos.
+Técnicas e métodos para rastreamento de objetos em imagens e vídeos.
 
 1. Filtro baseado em cores
 2. Operações com Background e Foreground
