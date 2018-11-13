@@ -161,8 +161,6 @@ def load_class_names(namesfile):
         
     return class_names
 
-
-<<<<<<< HEAD
 def list_objects(boxes, class_names):    
     objects = []
     for i in range(len(boxes)):
@@ -173,9 +171,6 @@ def list_objects(boxes, class_names):
             objects.append(class_names[cls_id])
     return objects
 
-            
-=======
->>>>>>> 92cb132d299e2c4d58b617b61195b6c291f3968c
 def print_objects(boxes, class_names):    
     print('Objects Found and Confidence Level:\n')
     for i in range(len(boxes)):
