@@ -67,15 +67,17 @@ Aplicando filtros e análises de face, utilizando câmera, para experiência com
 
 Técnicas e métodos para rastreamento de objetos em imagens e vídeos.
 
-1. Filtro baseado em cores
-2. Operações com Background e Foreground
-3. Meanshift
-4. CAMshift
-5. Optical Flow
+1. Filtro e rastreamento baseado em cores
+2. Meanshift
+3. CAMshift
 
 ### Aula 6 - Machine learning
 
-Aplicando as bibliotecas próprias do OpenCV par lidar com aprendizado de máquina.
+Aplicando as bibliotecas próprias do OpenCV para lidar com aprendizado de máquina.
 
 1. Optical Character Recognition
 2. Face Recognition
+
+Utilizando modelos pré-treinados de Deep Learning para:
+
+1. Detecção de objetos e pessoas com o `Yolo3`
