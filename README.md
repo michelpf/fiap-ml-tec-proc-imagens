@@ -33,8 +33,7 @@ Principais operações para manipulação e transformação de imagens.
 6. Masking
 7. Blurring
 
-
-### Aula 3 - Segmentação de imagens e detecção de objetos e faces.
+### Aula 3 - Segmentação de imagens
 
 Técnicas para segmentar e extrair artefatos e regiões de interesse de imagens.
 Metodologias e técnicas para lidar com detectores de objetos e identificação de rostos.
