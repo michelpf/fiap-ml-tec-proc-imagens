@@ -32,46 +32,52 @@ Principais operações para manipulação e transformação de imagens.
 5. Cropping
 6. Masking
 7. Blurring
-8. Sharpening
-9. Binarization
-10. Dilatação e Erosão
-11. Deteção de Borda
+
 
 ### Aula 3 - Segmentação de imagens e detecção de objetos e faces.
 
 Técnicas para segmentar e extrair artefatos e regiões de interesse de imagens.
 Metodologias e técnicas para lidar com detectores de objetos e identificação de rostos.
 
-1. Segmentação de imagens
-* Contornos
-* Identificação de Formas
+* Transformação de imagens
 
-2. Detecção de objetos e faces
-* Descritores de características
-* Speeded Up Robust Features (SURF)
-* Features from Accelerated Segment Test (FAST)
-* Binary Robust Independent Elementary Features (BRIEF)
-* Oriented FAST and Rotated BRIEF (ORB)
-* Histogram of Oriented Gradients (HOG)
-* Identificação de Faces, Pessoas e Carros com Haar Cascade
+1. Sharpening
+2. Binarization
+3. Dilatação e Erosão
+4. Deteção de Borda
 
-### Aula 4 - Aspectos de realidade aumentada
+* Segmentação de imagens
+
+1. Contornos
+2. Identificação de Formas
+
+
+
+### Aula 4 - Detecção de objetos
+
+1. Descritores de características
+2. Speeded Up Robust Features (SURF)
+3. Features from Accelerated Segment Test (FAST)
+4. Binary Robust Independent Elementary Features (BRIEF)
+5. Oriented FAST and Rotated BRIEF (ORB)
+6. Histogram of Oriented Gradients (HOG)
+
+### Aula 5 - Rastreamento de objetos
 
 Aplicando filtros e análises de face, utilizando câmera, para experiência com realidade aumentada.
 
-1. Análise e Filtro de Face
-2. Face Merging
-3. Facial Landmarks
+1. Identificação de Faces, Pessoas e Carros com Haar Cascade
+2. Análise e Filtro de Face
+3. Face Merging
+4. Facial Landmarks
 
-### Aula 5 - Rastreamento de objetos
+### Aula 6 - Rastreamento de objetos e machine learning
 
 Técnicas e métodos para rastreamento de objetos em imagens e vídeos.
 
 1. Filtro e rastreamento baseado em cores
 2. Meanshift
 3. CAMshift
-
-### Aula 6 - Machine learning
 
 Aplicando as bibliotecas próprias do OpenCV para lidar com aprendizado de máquina.
 
