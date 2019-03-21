@@ -1,6 +1,6 @@
 # FIAP MBA em Machine Learning e Inteligência Artificial
 
-![alt text](https://github.com/michelpf/fiap-ml-tec-proc-imagens/blob/master/deeplearning.jpg)
+![alt text](https://github.com/michelpf/fiap-ml-tec-proc-imagens/blob/master/computer-vision.jpg)
 
 ## Tecnologia e Processamento de Imagens
 
@@ -49,7 +49,6 @@ Metodologias e técnicas para lidar com detectores de objetos e identificação 
 
 1. Contornos
 2. Identificação de Formas
-
 
 
 ### Aula 4 - Detecção de objetos
